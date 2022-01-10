@@ -2,7 +2,7 @@ package test.this3;
 
 public class ThisTest {
 	public ThisTest() {
-		this(70);
+		this(3);
 		System.out.println("ThisTest() 생성자가 호출됨.");
 	}
 	
